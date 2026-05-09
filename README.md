@@ -1,16 +1,15 @@
-## Hi there 👋
+# Roberto A. Filho
 
-<!--
-**roberto-a-filho/roberto-a-filho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Sou um estudante participando de um programa de jovem aprendizagem. Tenho paixão por jogos e adoro explorar novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status Atual
+
+- 🔭 Estudante
+- 🌱 Aprendendo através de jovem aprendizagem
+- 🎮 Apaixonado por jogos
+- 👯 Busco colaborar em projetos relacionados a jogos e desenvolvimento
+- 💬 Pergunte-me sobre jogos, programação ou aprendizado
+- 📫 Como me encontrar: [seu email ou contato]
+- 😄 Pronomes: ele/dele
